@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/helloreact/static/css/main.f0b13d45.chunk.css",
-    "main.js": "/helloreact/static/js/main.d1794f4e.chunk.js",
-    "main.js.map": "/helloreact/static/js/main.d1794f4e.chunk.js.map",
+    "main.js": "/helloreact/static/js/main.c6578c1e.chunk.js",
+    "main.js.map": "/helloreact/static/js/main.c6578c1e.chunk.js.map",
     "react-syntax-highlighter_languages_refractor_abap.js": "/helloreact/static/js/react-syntax-highlighter_languages_refractor_abap.cd5b8215.chunk.js",
     "react-syntax-highlighter_languages_refractor_abap.js.map": "/helloreact/static/js/react-syntax-highlighter_languages_refractor_abap.cd5b8215.chunk.js.map",
     "react-syntax-highlighter_languages_refractor_actionscript.js": "/helloreact/static/js/react-syntax-highlighter_languages_refractor_actionscript.4006bb6e.chunk.js",
@@ -307,20 +307,20 @@
     "react-syntax-highlighter_languages_refractor_yaml.js.map": "/helloreact/static/js/react-syntax-highlighter_languages_refractor_yaml.4c3bcd8e.chunk.js.map",
     "runtime-main.js": "/helloreact/static/js/runtime-main.f33eb1a3.js",
     "runtime-main.js.map": "/helloreact/static/js/runtime-main.f33eb1a3.js.map",
-    "static/js/153.c5be03d4.chunk.js": "/helloreact/static/js/153.c5be03d4.chunk.js",
-    "static/js/153.c5be03d4.chunk.js.map": "/helloreact/static/js/153.c5be03d4.chunk.js.map",
+    "static/js/153.775fb0c8.chunk.js": "/helloreact/static/js/153.775fb0c8.chunk.js",
+    "static/js/153.775fb0c8.chunk.js.map": "/helloreact/static/js/153.775fb0c8.chunk.js.map",
     "static/js/154.6407de7d.chunk.js": "/helloreact/static/js/154.6407de7d.chunk.js",
     "static/js/154.6407de7d.chunk.js.map": "/helloreact/static/js/154.6407de7d.chunk.js.map",
     "static/js/155.55cb4cf9.chunk.js": "/helloreact/static/js/155.55cb4cf9.chunk.js",
     "static/js/155.55cb4cf9.chunk.js.map": "/helloreact/static/js/155.55cb4cf9.chunk.js.map",
     "index.html": "/helloreact/index.html",
     "static/css/main.f0b13d45.chunk.css.map": "/helloreact/static/css/main.f0b13d45.chunk.css.map",
-    "static/js/153.c5be03d4.chunk.js.LICENSE.txt": "/helloreact/static/js/153.c5be03d4.chunk.js.LICENSE.txt"
+    "static/js/153.775fb0c8.chunk.js.LICENSE.txt": "/helloreact/static/js/153.775fb0c8.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.f33eb1a3.js",
-    "static/js/153.c5be03d4.chunk.js",
+    "static/js/153.775fb0c8.chunk.js",
     "static/css/main.f0b13d45.chunk.css",
-    "static/js/main.d1794f4e.chunk.js"
+    "static/js/main.c6578c1e.chunk.js"
   ]
 }
